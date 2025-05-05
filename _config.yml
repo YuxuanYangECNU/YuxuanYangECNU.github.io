@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yuxuan Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Yuxuan Yang"
 description              : &description "personal description"
