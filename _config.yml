@@ -15,7 +15,7 @@ name                     : &name "Yuxuan Yang"
 description              : &description "personal description"
 url                      : 'https://yuxuanyangecnu.github.io'
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yuxuanyangecnu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "yyx.png"
   name             : "Yuxuan Yang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "A senior physics student at East China Normal University."
   location         : "Shanghai, China"
   employer         : "East China Normal University"
@@ -43,7 +43,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  github           : "https://github.com/YuxuanYangECNU"
+  github           : " https://github.com/YuxuanYangECNU "
      
 
   # Social media
