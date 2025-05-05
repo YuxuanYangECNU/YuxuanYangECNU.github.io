@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About Me
 ======
 I am a fourth-year undergraduate student majoring in physics at [East China Normal University, ECNU](https://www.ecnu.edu.cn/), and I will continue my studies at the same institution to pursue a master’s degree. My research focuses on integrated photonics and metasurfaces, and I am dedicated to exploring cutting-edge applications of photonic technologies. 
